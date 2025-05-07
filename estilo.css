@@ -15,11 +15,22 @@ body {
     margin: 0 auto;
 }
 
+p{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
 a {
-    background-color: gray;
-		margin: 10px 0;
+        background-color: gray;
 		color: black;
 		text-decoration: none; 
 		padding: 10px 25px;
 		border-radius: 10px;
-}
+        font-size: 50px;
+    }
+
+    a:hover{
+        background-color: 666666;
+        color: black;
+    }
