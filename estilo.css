@@ -3,14 +3,14 @@ body {
 }
 
 .banner{
-    max-width: 1985px;
+    width: 1985px;
     height: 530px;
     background-image: url(imagens/Senai\ \(logo\).png);
     margin: 0 auto;
 }
 
 .container {
-   width: 1024px;
+    width: 1024px;
     height: auto;
     margin: 0 auto;
 }
