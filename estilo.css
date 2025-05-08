@@ -50,6 +50,7 @@ a {
         }
 
         .container a{
-            width: 100%;
+            width: 88%;
+            flex-direction: column;
         }
     }
