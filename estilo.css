@@ -34,3 +34,22 @@ a {
         background-color: 666666;
         color: black;
     }
+
+    @media screen and (max-width:1023px){
+        .banner{
+            width: 100%;
+        }
+        
+        .container{
+            width: 100%;
+        }
+
+        .container p{
+            width: 88%;
+            flex-direction: column;
+        }
+
+        .container a{
+            width: 100%;
+        }
+    }
