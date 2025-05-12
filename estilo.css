@@ -9,7 +9,7 @@ body {
 }
 
 .banner{
-    width: 1985px;
+    width: 100%px;
     height: 530px;
     background-image: url(imagens/Senai\ logo.png);
     margin: 0 auto;
