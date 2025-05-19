@@ -1,0 +1,14 @@
+body{
+    background-color: #000000;
+}
+
+h2{
+    font-family: "Inter";
+    font-weight: 400;
+    color: #f0f0f0;
+}
+
+.destaque{
+    font-weight: 700;
+    font-size: 60px;
+}
